@@ -1,4 +1,4 @@
-package springframework.spfpet_clinic.model;
+package model;
 
 public class Person {
     private String  fristName;

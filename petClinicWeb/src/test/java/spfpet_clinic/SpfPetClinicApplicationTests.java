@@ -1,4 +1,4 @@
-package springframework.spfpet_clinic;
+package spfpet_clinic;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
