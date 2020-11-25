@@ -3,7 +3,7 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>SpringFramework</groupId>
     <artifactId>spf-pet_clinic</artifactId>
-    <version>0.0.1</version>
+    <version>0.0.2-SNAPSHOT</version>
     <modules>
         <module>petClinicData</module>
         <module>petClinicWeb</module>
@@ -25,6 +25,7 @@
         <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
         <java.version>11</java.version>
         <maven.javadoc.skip>true</maven.javadoc.skip>
+
     </properties>
 
 
@@ -47,6 +48,6 @@
         </plugins>
     </build>
 <scm><developerConnection>scm:git:https://github.com/AreejAzzam/spf-PetClinic.git</developerConnection>
-    <tag>Head</tag>
+    <tag>HEAD</tag>
   </scm>
 </project>
