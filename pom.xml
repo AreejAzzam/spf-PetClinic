@@ -3,7 +3,7 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>SpringFramework</groupId>
     <artifactId>spf-pet_clinic</artifactId>
-    <version>0.0.1_SNAPSHOT</version>
+    <version>0.0.1</version>
     <modules>
         <module>petClinicData</module>
         <module>petClinicWeb</module>
