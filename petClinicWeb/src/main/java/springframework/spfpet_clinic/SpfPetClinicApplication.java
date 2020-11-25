@@ -9,5 +9,4 @@ public class SpfPetClinicApplication {
     public static void main(String[] args) {
         SpringApplication.run(SpfPetClinicApplication.class, args);
     }
-
 }
