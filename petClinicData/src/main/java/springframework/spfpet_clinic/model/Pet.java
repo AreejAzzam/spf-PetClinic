@@ -1,4 +1,4 @@
-package model;
+package springframework.spfpet_clinic.model;
 
 import java.time.LocalDate;
 

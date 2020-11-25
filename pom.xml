@@ -3,7 +3,7 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>SpringFramework</groupId>
     <artifactId>spf-pet_clinic</artifactId>
-    <version>0.0.2</version>
+    <version>0.0.4-SNAPSHOT</version>
     <modules>
         <module>petClinicData</module>
         <module>petClinicWeb</module>
@@ -47,7 +47,7 @@
 
         </plugins>
     </build>
-<scm><developerConnection>scm:git:https://github.com/AreejAzzam/spf-PetClinic.git</developerConnection>
+  <scm><developerConnection>scm:git:https://github.com/AreejAzzam/spf-PetClinic.git</developerConnection>
     <tag>spf-pet_clinic-0.0.2</tag>
   </scm>
 </project>
