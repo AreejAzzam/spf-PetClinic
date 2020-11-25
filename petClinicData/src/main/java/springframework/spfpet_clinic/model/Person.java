@@ -1,6 +1,6 @@
 package springframework.spfpet_clinic.model;
 
-public class Person {
+public class Person  extends baseEntity{
     private String  fristName;
     private String lastName;
 
